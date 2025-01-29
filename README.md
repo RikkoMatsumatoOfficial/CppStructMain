@@ -1,0 +1,2 @@
+# CppStructMain
+CppStructMain by RikkoMatsumatoOfficial
